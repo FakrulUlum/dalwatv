@@ -1,8 +1,8 @@
 /*
-  Theme Name: Movfix - Online Movies & TV Shows Template.
-  Author Name: ThemeBeyond.
-  Support: ctoofbb@gmail.com.
-  Description: Movfix - Online Movies & TV Shows Template.
+  Theme Name: DalwaTV - Saluran Informasi & Pendidikan.
+  Author Name: rullumgrafis.
+  Support: rullum.id@gmail.com.
+  Description: DalwaTV - Saluran Informasi & Pendidikan.
   Version: 1.0
 */
 
@@ -594,7 +594,7 @@ label {
 .header-style-two::after {
     content: "";
     position: absolute;
-    background-image: url(../img/bg/header_bottom_shape.png);
+    background-image: url(../img/01_home/01_banner/header_bottom_shape.png);
     left: 0;
     right: 0;
     bottom: -20px;
@@ -1162,7 +1162,7 @@ label {
     outline: none;
     min-height: 44px;
     box-shadow: none;
-    background: #20212b url(../img/images/nw_selarw.png) no-repeat scroll 97.5% center;
+    background: #20212b url(../img/02_movie/02_movie_details/01_assets/nw_selarw.png) no-repeat scroll 97.5% center;
 }
 .custom-select:focus {
     border-color: #2d303d;
@@ -1271,7 +1271,7 @@ label {
     position: absolute;
     left: 0;
     bottom: 0;
-    background-image: url(../img/images/title_shape.png);
+    background-image: url(../img/01_home/01_banner/title_shape.png);
     width: 98px;
     height: 7px;
 }
@@ -1662,7 +1662,7 @@ label {
     margin-bottom: -150px;
 }
 .gallery-bg {
-    background-image: url(../img/bg/gallery_bg.jpg);
+    background-image: url(../img/01_home/01_banner/gallery_bg.jpg);
     background-position: top center;
     background-size: cover;
     position: absolute;
@@ -2781,7 +2781,7 @@ label {
 
 /* 19. Footer */
 .footer-top-wrap {
-    background-image: url(../img/bg/footer_bg.jpg);
+    background-image: url(../img/02_movie/01_movie/01_banner/movie_bg.jpg);
     background-position: center;
     background-size: cover;
     padding: 80px 0 55px;
@@ -2914,6 +2914,7 @@ label {
     padding: 25px 0;
 }
 .copyright-text > p {
+    text-align: center;
     margin-bottom: 0;
     font-size: 13px;
     color: #bcbcbc;
