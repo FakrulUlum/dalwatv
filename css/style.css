@@ -2982,6 +2982,7 @@ body {
     font-size: 13px;
     color: #bcbcbc;
     line-height: 24px;
+    width: 100%;
 }
 .payment-method-img img {
     max-width: 100%;
